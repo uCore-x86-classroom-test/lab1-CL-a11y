@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "lab1",
+      "name": "lab2",
       "setup": "",
-      "run": "echo hello",
+      "run": "make lab2",
       "input": "",
       "output": "",
       "comparison": "included",
